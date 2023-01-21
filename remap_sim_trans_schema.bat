@@ -1,0 +1,1 @@
+impdp system/[Your Password Here]@MCRSPOS file=microsdb.dmp log=simtrans.log fromuser=microsdb touser=dbcreate 

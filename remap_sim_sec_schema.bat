@@ -1,0 +1,1 @@
+impdp system/[Your Password Here]@MCRSPOS file=mcrscache.dmp log=simsecure.log fromuser=mcrscache touser=dbcache 
